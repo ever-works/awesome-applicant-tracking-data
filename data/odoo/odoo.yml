@@ -1,0 +1,13 @@
+name: "Odoo"
+description: "Odoo is an open-source business application suite including a Recruitment app for applicant tracking. It manages job positions, applications, interviews, and contracts. Community edition is free; enterprise edition is paid."
+source_url: "https://www.odoo.com/"
+category: "Open-Source ATS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "erp"
+  - "ats"
+icon_url: "https://icons.duckduckgo.com/ip3/www.odoo.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.odoo.com/>\n- Repository: <https://github.com/odoo/odoo>\n\nLicense: LGPL.\n"
+updated_at: "2026-11-21 15:58"

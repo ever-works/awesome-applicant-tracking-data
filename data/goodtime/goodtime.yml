@@ -1,0 +1,13 @@
+name: "GoodTime"
+description: "GoodTime is an interview scheduling and candidate experience platform for talent teams. It automates interview coordination, interviewer training, and scheduling logistics. Paid subscription."
+source_url: "https://www.goodtime.io/"
+category: "Interview Scheduling & Intelligence"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "interview-scheduling"
+  - "candidate-experience"
+icon_url: "https://icons.duckduckgo.com/ip3/www.goodtime.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.goodtime.io/>\n"
+updated_at: "2026-11-21 15:58"

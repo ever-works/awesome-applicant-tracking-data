@@ -1,0 +1,13 @@
+name: "Breezy HR"
+description: "Breezy HR is a cloud-based applicant tracking system for small and growing businesses. It offers candidate sourcing, pipeline automation, interview scheduling, and team collaboration. Freemium and paid plans."
+source_url: "https://breezy.hr/"
+category: "Applicant Tracking Systems"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "ats"
+  - "smb"
+icon_url: "https://icons.duckduckgo.com/ip3/breezy.hr.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://breezy.hr/>\n"
+updated_at: "2026-11-21 15:58"

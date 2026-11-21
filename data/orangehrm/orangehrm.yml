@@ -1,0 +1,13 @@
+name: "OrangeHRM"
+description: "OrangeHRM is an open-source human resource management system with recruitment and applicant tracking capabilities. It supports job vacancies, candidate screening, and onboarding. Community edition is free; paid enterprise editions available."
+source_url: "https://www.orangehrm.com/"
+category: "Open-Source ATS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "hrm"
+  - "ats"
+icon_url: "https://icons.duckduckgo.com/ip3/www.orangehrm.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.orangehrm.com/>\n- Repository: <https://github.com/orangehrm/orangehrm>\n\nLicense: GPL.\n"
+updated_at: "2026-11-21 15:58"

@@ -1,0 +1,13 @@
+name: "SmartRecruiters"
+description: "SmartRecruiters is an enterprise talent acquisition platform with ATS, recruitment marketing, and collaborative hiring. It offers a free edition for small teams and paid enterprise plans. Cloud deployment."
+source_url: "https://www.smartrecruiters.com/"
+category: "Applicant Tracking Systems"
+tags:
+  - "freemium"
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "ats"
+icon_url: "https://icons.duckduckgo.com/ip3/www.smartrecruiters.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.smartrecruiters.com/>\n"
+updated_at: "2026-11-21 15:58"

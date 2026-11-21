@@ -1,0 +1,12 @@
+- id: applicant-tracking-systems
+  name: "Applicant Tracking Systems"
+- id: ai-recruiting-and-sourcing
+  name: "AI Recruiting & Sourcing"
+- id: open-source-ats
+  name: "Open-Source ATS"
+- id: interview-scheduling-and-intelligence
+  name: "Interview Scheduling & Intelligence"
+- id: job-multiposting
+  name: "Job Multiposting"
+- id: assessments
+  name: "Assessments"

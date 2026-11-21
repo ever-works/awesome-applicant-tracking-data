@@ -1,0 +1,13 @@
+name: "CATS"
+description: "CATS (Computer Applicant Tracking System) is an open-source ATS designed for recruiters and staffing agencies. It includes resume parsing, job posting, candidate management, and reporting. Self-hosted under GPL."
+source_url: "https://www.catsone.com/"
+category: "Open-Source ATS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "ats"
+icon_url: "https://icons.duckduckgo.com/ip3/www.catsone.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.catsone.com/>\n- Repository: <https://github.com/catsone/cats>\n\nLicense: GPL.\n"
+updated_at: "2026-11-21 15:58"

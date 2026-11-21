@@ -1,0 +1,13 @@
+name: "Freshteam"
+description: "Freshteam is an HR and applicant tracking system for growing businesses by Freshworks. It covers sourcing, hiring, onboarding, and employee information management. Freemium and paid plans."
+source_url: "https://freshworks.com/freshteam"
+category: "Applicant Tracking Systems"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "ats"
+  - "hris"
+icon_url: "https://icons.duckduckgo.com/ip3/freshworks.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://freshworks.com/freshteam>\n"
+updated_at: "2026-11-21 15:58"

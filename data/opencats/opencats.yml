@@ -1,0 +1,13 @@
+name: "OpenCATS"
+description: "OpenCATS is an open-source applicant tracking system for recruiting and staffing firms. It provides resume parsing, job posting, candidate tracking, and email integration. Self-hosted under the GPL license."
+source_url: "https://www.opencats.org/"
+category: "Open-Source ATS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "ats"
+icon_url: "https://icons.duckduckgo.com/ip3/www.opencats.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.opencats.org/>\n- Repository: <https://github.com/OpenCATS/OpenCATS>\n\nLicense: GPL.\n"
+updated_at: "2026-11-21 15:58"

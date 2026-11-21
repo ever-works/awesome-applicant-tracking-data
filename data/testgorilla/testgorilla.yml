@@ -1,0 +1,13 @@
+name: "TestGorilla"
+description: "TestGorilla is a pre-employment assessment platform for skills-based hiring. It offers cognitive, personality, and technical tests to screen candidates. Freemium and paid plans."
+source_url: "https://www.testgorilla.com/"
+category: "Assessments"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "assessments"
+  - "skills-testing"
+icon_url: "https://icons.duckduckgo.com/ip3/www.testgorilla.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.testgorilla.com/>\n"
+updated_at: "2026-11-21 15:58"

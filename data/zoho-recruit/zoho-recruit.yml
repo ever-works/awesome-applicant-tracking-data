@@ -1,0 +1,13 @@
+name: "Zoho Recruit"
+description: "Zoho Recruit is an applicant tracking system for staffing agencies and corporate HR teams. It includes resume parsing, job board posting, candidate matching, and automation. Freemium and paid editions."
+source_url: "https://www.zoho.com/recruit"
+category: "Applicant Tracking Systems"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "ats"
+  - "staffing"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zoho.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.zoho.com/recruit>\n"
+updated_at: "2026-11-21 15:58"

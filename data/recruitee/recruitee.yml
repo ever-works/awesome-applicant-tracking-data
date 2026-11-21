@@ -1,0 +1,12 @@
+name: "Recruitee"
+description: "Recruitee is a collaborative applicant tracking system for hiring teams. It includes career sites, sourcing extensions, pipeline automation, and reporting. Paid subscription with tiered plans."
+source_url: "https://www.recruitee.com/"
+category: "Applicant Tracking Systems"
+tags:
+  - "paid"
+  - "api"
+  - "ats"
+  - "collaborative-hiring"
+icon_url: "https://icons.duckduckgo.com/ip3/www.recruitee.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.recruitee.com/>\n"
+updated_at: "2026-11-21 15:58"
